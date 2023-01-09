@@ -1,6 +1,7 @@
 {
   "name": "dnd-kanban",
   "private": true,
+  "homepage": "http://pankaj-kumar290h.github.io/kanban-board",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
